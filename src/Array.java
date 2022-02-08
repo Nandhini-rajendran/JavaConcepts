@@ -22,5 +22,6 @@ public class Array
             System.out.print(str[i]+" ");
         }
         System.out.println("hello world");
+        System.out.println("hi");
     }
 }

@@ -21,5 +21,6 @@ public class Array
             str[i]=ip.next();
             System.out.print(str[i]+" ");
         }
+        System.out.println("hello world");
     }
 }
